@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 17 14:58:20 2020
+Created on April 2020
 
 @author: Simon.plumecocq
 
-Next step: Zoom and dezomm, cf def doZoom
-Afficher taille et scaling
+Next step on Image: Zoom and dezomm, cf def doZoom
+Show size and scaling
+
+Next step on Webcam: SSD and Yolo
 
 """
 import os
@@ -32,7 +34,7 @@ print("sklearn version: "+str(sk.__version__))
 import cv2 as cv
 print("OpenCv version: "+str(cv.__version__))
 
-main_path = "C:\\Users\\Plumecocq\\Documents\\Python Scripts\\Video"
+main_path = "C:\\Users\\Plumecocq\\Documents\\Python Scripts\\FaceRecognition"
 sys.path.append(main_path)
 os.chdir(main_path)
 

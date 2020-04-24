@@ -7,7 +7,7 @@ The first implementation is based on:
 
 This can identify myself (Simon):<br/>
 ![Exemple my face](https://raw.githubusercontent.com/Splumecocq/FaceRecognition/master/images/MeInMyRoom.jpg)<br/>
-Me in my room while confining cov19, the kids crying in the living room.
+Me in my room while covid-19 confinement (the kids crying in the living room).
 
 :construction:
 Next algorithms as **SDD** (Single Shot Detector ) and **Yolo** (You only look once) will be added later.

@@ -5,8 +5,8 @@ The first implementation is based on:
 * **MTCNN** (Multi-task Cascaded Convolutional Networks) to faces detection
 * and inception_resnet trained on VGGFace2 to extract face features and recognition
 
-This can identify myself (Simon):
-![Exemple my face](https://raw.githubusercontent.com/Splumecocq/FaceRecognition/master/images/MeInMyRoom.jpg)
+This can identify myself (Simon):<br/>
+![Exemple my face](https://raw.githubusercontent.com/Splumecocq/FaceRecognition/master/images/MeInMyRoom.jpg)<br/>
 Me in my room while confining cov19, the kids crying in the living room.
 
 :construction:

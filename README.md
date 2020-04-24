@@ -18,9 +18,10 @@ My contribution is an interface with the details of MTCNN and the possibility to
 -	Possibility to switch from cpu to gpu
 -	Update the thresholds at each levels
 
-Example 2:
+![MTCNN_Interface](https://raw.githubusercontent.com/Splumecocq/FaceRecognition/master/images/MTCNN_Screen.jpg)
 
 The program is organized according to the following diagram:
+![Diagram_Flux](https://raw.githubusercontent.com/Splumecocq/FaceRecognition/master/images/Diagram_Flux.jpg)
 
 
 

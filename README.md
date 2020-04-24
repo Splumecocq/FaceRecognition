@@ -6,7 +6,7 @@ The first implementation is based on:
 * and inception_resnet trained on VGGFace2 to extract face features and recognition
 
 This can identify myself (Simon):
-![Exemple my face](https://raw.githubusercontent.com/Splumecocq/FaceRecognition/master/Image/MeInMyRoom.jpg)
+![Exemple my face](https://raw.githubusercontent.com/Splumecocq/FaceRecognition/master/images/MeInMyRoom.jpg)
 Me in my room while confining cov19, the kids crying in the living room.
 
 :construction:
